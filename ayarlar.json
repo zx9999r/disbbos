@@ -1,0 +1,46 @@
+{
+	"token": "MTE2Njc4NTQ1Njg4MTU0MTEyMA.GF8hxK.bW8A_HMmoh8H6grIxYMrwcxS2g9wwHE2Uf6F3k",
+	"guildID": "1166784111793418270",
+	"commandroom": {
+		"BASIC": "1166785546111156314",
+		"VIP": "1166785546111156314",
+		"SUPER": "1166785546111156314",
+        "MASTER": "1166785546111156314",
+		"ADMIN": "1166785546111156314",
+		"FREE": "1166785546111156314",
+		"VIP1": "1166785546111156314"
+		
+		
+    },
+	"roleID": "1166786629755752498",
+	"roleID1": "1166786629755752498",
+	"roleID2": "1166786629755752498",
+	"roleID3": "1166786629755752498",
+	"roleID4": "1166786629755752498",
+	"roleID5": "1166786629755752498",
+	"roleADMIN": "1166786467884965920",
+	
+
+
+	"versionbot": "⚡ 𝑭𝒍𝒐𝒘𝒆𝒓 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔 ⚡",
+	"img": "https://cdn.discordapp.com/avatars/1127996658077143200/d7b6dd1f65988413f85797b109abeb1e.png?size=256",
+	"blacklists" : [
+		"https://intervps.top/",
+		"fbijobs.gov",
+		"chinhphu.vn",
+		"stargate.cam",
+		"176.9.16.251",
+		"85.10.240.246",
+		"85.10.195.175",
+		"95.211.208.171",
+		"51.15.25.108",
+		"dststx.xyz",
+		"bbos.cat",
+		"ventox.lol",
+		"hitme.ventox.lol",
+		"tls.mrrage.xyz",
+		"dev.dststx.xyz",
+		"webstress.xyz"
+	],
+	"photovip": ["https://media.giphy.com/media/X0KMxYWf0haKGlmIaw/giphy.gif", "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlpbzdkaTlleHhsZTMzYzB3aDYwbXFvemlrejZwOTFlbWJ6eWNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EAOTD2L0qyvhm/giphy.gif", "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwcGJocXZkNDNoNzR3cGQ2cmlsazRrbjd0MTV4dHE0ZWY1YmQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btRkeE7RtAq8DnO/giphy.gif", "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRwY3lvaGF4ZndtazZudjc1MGNlNnF6NXdrMWlnMzJyeDV3NWl6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDQSdixgEvsZ2/giphy.gif", "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0amhxNHVwanprYmlhcTNmdmVlam81b2ZnaXoybnNhNWE3N2NucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s73JnHowB5bOg/giphy.gif", "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0amhxNHVwanprYmlhcTNmdmVlam81b2ZnaXoybnNhNWE3N2NucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s73JnHowB5bOg/giphy.gif"]
+}
